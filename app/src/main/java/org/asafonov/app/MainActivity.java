@@ -18,6 +18,7 @@ public class MainActivity extends Activity {
         mWebView = findViewById(R.id.activity_main_webview);
         WebSettings webSettings = mWebView.getSettings();
         webSettings.setJavaScriptEnabled(true);
+        webSettings.setDomStorageEnabled(true);
         mWebView.setWebViewClient(new MyWebViewClient());
 
         // REMOTE RESOURCE
