@@ -15,6 +15,7 @@
             android:name="org.asafonov.app.MainActivity"
             android:theme="@android:style/Theme.DeviceDefault.NoActionBar.Fullscreen"
             android:label="@string/app_name"
+            android:exported="true"
             android:screenOrientation="landscape">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
