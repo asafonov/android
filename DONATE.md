@@ -1,15 +1,15 @@
-# Support the development
+# Support Spass development
 
-This application is an open source project, and your donations support the developer, your donation will make it possible to keep up the current development standards, and will bring new features and improvements to the app.
+Spass is an open source project, and your donations support the developer, your donation will make it possible to keep up the current development standards, and will bring new features and improvements to the app.
 
 ## Donations
 
 Platform | Link
 --- | ---
-Yoomoney | [Donate](https://yoomoney.ru/to/41001650076246) |
 TON | UQCYkOR_iZDT_pPJXFJD2pL8KIlzyDPbz0rmFZDXuPMQ0LNh |
-Bitcoin | 1LBHLpq4Bk1X8ZB3si4Q8XduZsLy7Q3htB |
-USDT (TRC20) | TSuMjMqXTZ9DwnRMjuoWZuouvVDTFxoKm3 |
+Bitcoin | bc1qrrquhz557lgcwqg6u58qepnfp0l5rzmv3r7f7a |
+USDT (TRC20) | TLptYbF6R5D3qhbLurAd8r79hkEjMCSiVL |
+ETH | 0x732DFD54cFda3B638Cd38aEF236473eDF616E78f |
 
 Thank you!
 
